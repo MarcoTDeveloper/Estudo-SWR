@@ -2,7 +2,7 @@ import { useCallback } from 'react';
 import { Link } from 'react-router-dom';
 import { mutate as mutateGlobal } from 'swr';
 import { useFetch } from '../hooks/useFetch';
-import api from '../services/api';
+import { api } from '../services/api';
 
 interface User {
     id: number;

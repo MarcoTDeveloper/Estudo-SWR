@@ -1,28 +1,24 @@
 {
   "users": [
     {
-      "name": "Cara da água",
+      "name": "Marco",
       "id": 1
     },
     {
-      "name": "Cara da água",
+      "name": "Joao",
       "id": 2
     },
     {
-      "name": "Cara da água",
+      "name": "Joao M",
       "id": 3
     },
     {
-      "name": "Cara da água",
+      "name": "Paulo",
       "id": 4
     },
     {
-      "name": "Cara da água",
+      "name": "Mateus",
       "id": 5
-    },
-    {
-      "name": "Cara da água",
-      "id": 8
     }
   ]
 }
